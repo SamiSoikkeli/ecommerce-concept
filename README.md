@@ -7,6 +7,7 @@ E-commerce website concept for fictional fashion brand. Purpose was to practice 
 
 - Cart functionalities
 - Account functionalities (Register and Login)
+- Product sorting functionalities
 
 
 ## Live version
